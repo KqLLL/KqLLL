@@ -12,3 +12,5 @@
 [![](https://img.shields.io/badge/-Golang-DEA197?style=flat-square&logo=go&logoColor=137d9a)](https://go.dev/)
 [![](https://img.shields.io/badge/-Kubernetes-DD0031?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-Docker%20Stack-DB7093?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KqLLL&show_icons=true&theme=radical)
